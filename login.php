@@ -32,7 +32,7 @@
 <body>
 <form action="check.php" method="POST">
   <fieldset LOGIN>
-    <legend>LOGIN</legend>
+    <legend>SUBMIT</legend>
     <div class="mb-5">
       <label    class="form-label">Email:</label>
       <input type="text" name="email" class="form-control">
